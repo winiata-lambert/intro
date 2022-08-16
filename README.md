@@ -4,6 +4,7 @@
 
 ![](https://img.shields.io/github/followers/codess-aus?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/codess-aus)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
 <!--
